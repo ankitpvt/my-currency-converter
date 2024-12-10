@@ -1,0 +1,26 @@
+{
+  "name": "my-currency-converter",
+  "version": "1.0.0",
+  "description": "this is my npm package i want to learn how to make npm package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitpvt/my-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ankit",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ankitpvt/my-currency-converter/issues"
+  },
+  "homepage": "https://github.com/ankitpvt/my-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
